@@ -32,7 +32,7 @@
 
 ### 2. Installation
 ```bash
-git clone https://github.com/Bluebird0223/eshkon-assignment.git
+git clone https://github.com/Bluebird0223/eshkon-assignment-new.git
 cd eshkon-assignment
 npm install
 ```
